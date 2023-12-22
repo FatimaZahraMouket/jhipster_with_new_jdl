@@ -1,7 +1,10 @@
 export const AUTHORITIES = {
   ADMIN: 'ROLE_ADMIN',
   USER: 'ROLE_USER',
+  MEDECIN: 'ROLE_MEDECIN',
+  SECRETAIRE:'ROLE_SECRETAIRE',
 };
+
 
 export const messages = {
   DATA_ERROR_ALERT: 'Internal Error',
